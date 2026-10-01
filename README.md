@@ -3,9 +3,9 @@ Welcome  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 This is my little GitHub corner.
 
 I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
-˚₊‧ ୨୧ ‧₊˚
+<br>˚₊‧ ୨୧ ‧₊˚ <br>
 Here you will find the projects I want to keep close: my school work,
-deployed apps and websites, and tools I made while learning.
+deployed apps & websites, and tools I made while learning.
 
 <p>
 I am always enthusiastic to learn more, improve my skills, and build better things step by step. 
@@ -16,11 +16,11 @@ Tiny progress still counts. ᕙ( •̀ ᗜˊ•́)ᕗ
   <tbody>
     <tr>
       <td><strong>Currently learning</strong></td>
-      <td>web development, software development, cybersecurity, and cleaner project structure</td>
+      <td>web & software development, cybersecurity and cleaner project structure</td>
     </tr>
     <tr>
       <td><strong>Currently making</strong></td>
-      <td>fun small projects, practical apps, and things I build while learning</td>
+      <td>fun small projects and things I build while learning</td>
     </tr>
   </tbody>
 </table>
@@ -44,7 +44,7 @@ Main Shelf ୨୧
 Tech Toolbox ٩(ˊᗜˋ*)و
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,python,c,cpp,cs,nodejs,nestjs,nextjs,postgresql,figma,supabase,firebase,vscode,git,github&theme=light&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,python,c,cpp,cs,nodejs,nestjs,nextjs,postgresql,figma,supabase,firebase,vercel,vscode,git,github&theme=light&perline=9" />
 </a>
 
 
@@ -55,6 +55,6 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 </sub>
 </div>
 <br><br>
-Little Note ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+Thanks for visiting my tiny code corner ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 <br>
-Thanks for visiting my tiny code corner. I am still learning, still building, and still excited for whatever I get to make next.
+ I am still learning, still building, and still excited for whatever I get to make next.
