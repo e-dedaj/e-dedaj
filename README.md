@@ -1,11 +1,12 @@
 Welcome  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-This is my little GitHub corner.
-
-I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
+This is my little GitHub corner. <br>
+<br>I’m a programming student from Albania, currently studying at “Gjergj Canco” Technical Professional School.
+<br>I enjoy turning ideas into simple, creative, and interactive websites.I’m always learning something new, experimenting with code, and trying to understand how things work behind the screen. Outside of coding, I enjoy discovering new places, listening to music, drawing, and photography.
+<br>I’m still at the beginning of my journey, but I’m excited to keep learning, building, and seeing where code can take me.
+<br>
 <br>˚₊‧ ୨୧ ‧₊˚ <br>
-Here you will find the projects I want to keep close: my school work,
-deployed apps & websites, and tools I made while learning.
+I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
 
 <p>
 I am always enthusiastic to learn more, improve my skills, and build better things step by step. 
