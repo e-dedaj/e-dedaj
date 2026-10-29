@@ -32,9 +32,10 @@ Tiny progress still counts. ᕙ( •̀ ᗜˊ•́)ᕗ
 
 Main Shelf ୨୧
 
-Check them out by clicking below.<br>
+Check them out by clicking below.
+<br>
 
-[✿ 𝓜𝔂 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼 ✿]([https://github.com](https://github.com/e-dedaj?tab=repositories))
+[✿ 𝓜𝔂 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼 ✿](https://github.com/e-dedaj?tab=repositories)
 
 
 ---
